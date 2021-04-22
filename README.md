@@ -1,6 +1,6 @@
 # MAC OS Style portfolio
 
-Hi there👋, this repo of my MACOS themed portfolio.
+Hi there👋, this repo is of my MACOS themed portfolio.
 
 you can check this at:
 
