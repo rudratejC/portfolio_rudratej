@@ -9,3 +9,8 @@ https://rudratejc.github.io/portfolio
 
 hope you will like it & I will be delighted to if you give  suggestions to improve this.
 
+
+![alt text](https://github.com/rudratejC/portfolio_rudratej/blob/master/assets/web.png?raw=true)
+
+
+![alt text](https://github.com/rudratejC/portfolio_rudratej/blob/master/assets/mobile.png?raw=true)
