@@ -42,9 +42,9 @@ class _AboutState extends State<About> {
     fsize = fntsz;
     var afntsz = MediaQuery.of(context).size.height * 0.015;
     var aboutText =
-        "Hi there! I'm Rurdratej Laxman Chilkewar, a Second Year Computer Engineering Student. I love Coding & creating useful Apps ,I have been learning programming for the past two years now.";
+        "Hi there! I'm Rurdratej Laxman Chilkewar, a Third Year Computer Engineering Student. I love Coding & creating useful Apps ,I have been learning programming for the past two years now.";
     var aboutTextOF =
-        "Hi there! I'm Rurdratej L. C., a 2nd Year Computer Engg. Student. I love Coding & creating useful Apps";
+        "Hi there! I'm Rurdratej L. C., a 3nd Year Computer Engg. Student. I love Coding & creating useful Apps";
     return SingleChildScrollView(
       child: Column(
         children: [
